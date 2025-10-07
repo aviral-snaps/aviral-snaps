@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Aviral Kumar Srivastava (Avi)
 
+🎓 Master’s student in Computer Science at **CSU, Chico**
+💼 Software Engineering Intern at **SnapLogic**
+
+- 🔭 I’m currently working on **HL7 Snap Pack**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love F.R.I.E.N.D.S
+
+## Connect  
+- [LinkedIn](https://www.linkedin.com/in/aviralkumarsrivastava)  
 <!--
 **aviral-snaps/aviral-snaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
